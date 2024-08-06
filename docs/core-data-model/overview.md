@@ -9,7 +9,7 @@ The Tuva Core Data Model is a common data model designed for claims and clinical
 
 We developed the Tuva Core Data Model to be the common data model for the Tuva Project.  We decided early on to develop our own common data model, rather than adopt and existing data model, so that we can retain full control of the governance of the data model.  Over time, we need the ability to modify the common data model to support downstream analytics, and without the ability to do this our ability to build analytics would be limited.
 
-We also new that we couldn't adopt FHIR for our common data model, since FHIR is not relational.  However, the Tuva Core Data Model is largely inspired by FHIR and USCDI.
+We also knew that we couldn't adopt FHIR for our common data model, since FHIR is not relational.  However, the Tuva Core Data Model is largely inspired by FHIR and USCDI.
 
 
 
